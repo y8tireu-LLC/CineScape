@@ -1,0 +1,22 @@
+{
+  "Episodes": [
+    {
+      "title": "Bad Apple",
+      "description": "This is the first Episode.",
+      "videoUrl": "movie.mp4",
+      "posterUrl": "thumbnail.jpg"
+    },
+    {
+      "title": "Episode 2",
+      "description": "This is the second Episode.",
+      "videoUrl": "Episode2.mp4",
+      "posterUrl": "thumbnail2.jpg"
+    },
+    {
+      "title": "Episode 3",
+      "description": "This is the third Episode.",
+      "videoUrl": "Episode3.mp4",
+      "posterUrl": "thumbnail3.jpg"
+    }
+  ]
+}
